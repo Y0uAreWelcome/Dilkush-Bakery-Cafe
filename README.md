@@ -1,2 +1,4 @@
 # Dilkush-Bakery-Cafe
-B2B built by QuickSites
+B2B built by The Web Blueprint 
+
+https://theweblueprint.com/
